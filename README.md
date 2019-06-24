@@ -1,4 +1,4 @@
-# Thermostat
+# Thermostat (Backend)
 Application for showing chart of thermostat details and also upload thermostat data.
 
 ## Pre-requisite
@@ -26,7 +26,7 @@ Application for showing chart of thermostat details and also upload thermostat d
     ```
 - Sync from remote branch into your local .
     ```sh
-    $ git pull origin <Branch Name>
+    $ git pull origin <master>
     ```
 - Install all the backend dependency
     ```sh
@@ -126,7 +126,7 @@ Application for showing chart of thermostat details and also upload thermostat d
     ```
 - Sync from remote branch into your local.
     ```sh
-    $ git pull origin <Branch Name>
+    $ git pull origin <master>
     ```
 
 - Install all the frontend dependency
